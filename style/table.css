@@ -1,0 +1,26 @@
+.Style{
+    border-collapse:collapse;
+    width:90%;
+    text-align: center;
+    position: fixed;
+}
+.Border{
+    border:2px solid black;
+}
+.footer{
+    border:5px double black;
+    color:blue;
+}
+.Italy{
+    background:green;
+    color:white;
+}
+.Left{
+    text-align-last: left;
+}
+.Table{
+    width:22%;
+}
+.Data{
+    width:12%;
+}
